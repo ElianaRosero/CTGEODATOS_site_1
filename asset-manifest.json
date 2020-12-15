@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://ElianaRosero.github.io/static/css/main.6dea0f05.chunk.css",
-    "main.js": "https://ElianaRosero.github.io/static/js/main.5562c67a.chunk.js",
-    "main.js.map": "https://ElianaRosero.github.io/static/js/main.5562c67a.chunk.js.map",
-    "runtime-main.js": "https://ElianaRosero.github.io/static/js/runtime-main.6f327d79.js",
-    "runtime-main.js.map": "https://ElianaRosero.github.io/static/js/runtime-main.6f327d79.js.map",
-    "static/js/2.c01ac6ff.chunk.js": "https://ElianaRosero.github.io/static/js/2.c01ac6ff.chunk.js",
-    "static/js/2.c01ac6ff.chunk.js.map": "https://ElianaRosero.github.io/static/js/2.c01ac6ff.chunk.js.map",
-    "static/js/3.9c3ba211.chunk.js": "https://ElianaRosero.github.io/static/js/3.9c3ba211.chunk.js",
-    "static/js/3.9c3ba211.chunk.js.map": "https://ElianaRosero.github.io/static/js/3.9c3ba211.chunk.js.map",
-    "index.html": "https://ElianaRosero.github.io/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "https://ElianaRosero.github.io/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.c01ac6ff.chunk.js.LICENSE.txt": "https://ElianaRosero.github.io/static/js/2.c01ac6ff.chunk.js.LICENSE.txt"
+    "main.css": "https://ctgeodatos.com/static/css/main.6dea0f05.chunk.css",
+    "main.js": "https://ctgeodatos.com/static/js/main.5562c67a.chunk.js",
+    "main.js.map": "https://ctgeodatos.com/static/js/main.5562c67a.chunk.js.map",
+    "runtime-main.js": "https://ctgeodatos.com/static/js/runtime-main.a56860c8.js",
+    "runtime-main.js.map": "https://ctgeodatos.com/static/js/runtime-main.a56860c8.js.map",
+    "static/js/2.c01ac6ff.chunk.js": "https://ctgeodatos.com/static/js/2.c01ac6ff.chunk.js",
+    "static/js/2.c01ac6ff.chunk.js.map": "https://ctgeodatos.com/static/js/2.c01ac6ff.chunk.js.map",
+    "static/js/3.9c3ba211.chunk.js": "https://ctgeodatos.com/static/js/3.9c3ba211.chunk.js",
+    "static/js/3.9c3ba211.chunk.js.map": "https://ctgeodatos.com/static/js/3.9c3ba211.chunk.js.map",
+    "index.html": "https://ctgeodatos.com/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "https://ctgeodatos.com/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.c01ac6ff.chunk.js.LICENSE.txt": "https://ctgeodatos.com/static/js/2.c01ac6ff.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6f327d79.js",
+    "static/js/runtime-main.a56860c8.js",
     "static/js/2.c01ac6ff.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.5562c67a.chunk.js"
